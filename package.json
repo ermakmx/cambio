@@ -1,0 +1,16 @@
+{
+  "name": "cambio",
+  "version": "1.0.0",
+  "description": "cambio password",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/msal-node": "^2.5.1",
+    "axios": "^1.6.1",
+    "express": "^4.18.2"
+  }
+}
